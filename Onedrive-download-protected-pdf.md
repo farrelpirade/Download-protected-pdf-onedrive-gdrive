@@ -1,4 +1,6 @@
-Onedrive protected pdf 
+All credits to the original video maker on youtube
+
+Onedrive protected pdf
 
 ONLY TESTED ON WINDOWS USING GOOGLE CHROME AND POWERSHELL
 
@@ -6,7 +8,7 @@ WATCH THE VIDEO IF YOU DON'T WANT TO READ THE ENTIRE FILE, IT'S THE SAME
 
 video link : https://drive.google.com/file/d/1g1o7Eclt7P6Qg_dXlPeqwQEfudfxTsiD/view?usp=sharing
 
-Tutorial : 
+Tutorial :
 
 1. Open the pdf (can be from the view only folder or even from the link you get)
 
@@ -26,7 +28,7 @@ Tutorial :
 
 9. paste the script at the end (THE TICK MUST BE AT THE VERY END OF THE LAST CHARACTER FROM THERE, NOT FROM A NEW LINE)
 
-script you can paste at the end of copy as powershell : 
+script you can paste at the end of copy as powershell :
 
 `
 -OutFile "$env:USERPROFILE\Downloads\document.pdf"
